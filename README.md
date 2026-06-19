@@ -71,7 +71,7 @@ A parley is a negotiation between adversaries to avoid further conflict — fitt
 
 ## Built for
 
-[Band of Agents Hackathon 2026](https://band.ai) — submitted by [@buildwithshaji](https://twitter.com/buildwithshaji) / [WorqFlo AI](https://worqflo.ai)
+[Band of Agents Hackathon 2026](https://band.ai) — submitted by [@buildwithshaji](https://twitter.com/buildwithshaji) / www.linkedin.com/in/mohamedshajith52
 
 ## License
 
