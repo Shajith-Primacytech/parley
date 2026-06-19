@@ -1,0 +1,27 @@
+{
+  "event_id": "CDM-2024-001",
+  "tca": "2024-03-15T14:23:00Z",
+  "time_to_conjunction_seconds": 87,
+  "probability_of_collision": 1.8e-4,
+  "object_1": {
+    "name": "STARLINK-4412",
+    "norad_id": "55432",
+    "operator": "Starlink",
+    "altitude_km": 550.2,
+    "velocity_km_s": 7.6,
+    "mass_kg": 260,
+    "maneuver_capable": true
+  },
+  "object_2": {
+    "name": "ONEWEB-2201",
+    "norad_id": "58901",
+    "operator": "OneWeb",
+    "altitude_km": 549.8,
+    "velocity_km_s": 7.6,
+    "mass_kg": 147,
+    "maneuver_capable": true
+  },
+  "miss_distance_m": 42.3,
+  "relative_velocity_km_s": 0.3,
+  "threshold_pc": 1e-4
+}

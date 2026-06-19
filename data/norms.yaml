@@ -1,0 +1,16 @@
+coordination_norms:
+  version: "1.0"
+  source: "IADC Space Debris Mitigation Guidelines"
+  rules:
+    - id: "NORM-001"
+      description: "Maneuver must not increase Pc above current value"
+    - id: "NORM-002"
+      description: "Delta-V must not exceed 2.0 m/s per maneuver"
+    - id: "NORM-003"
+      description: "Maneuver must occur at least 60 seconds before TCA"
+    - id: "NORM-004"
+      description: "Only one object should maneuver to avoid cascading errors"
+    - id: "NORM-005"
+      description: "Maneuvering party must notify other operator via CDM update"
+    - id: "NORM-006"
+      description: "Post-maneuver Pc target must be below 1e-5"
